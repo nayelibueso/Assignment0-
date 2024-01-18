@@ -7,8 +7,7 @@ This is a template and instructions for creating your own Assignment0.
 _Please follow these instructions carefully, there are several ways to confuse yourself if you don't keep checking against these instructions as you go._
 
 ## Instructions
-
-### 1. Use the green `Template` button above to create your own github repository. 
+ 
 
 Click the green button, then click the blue "Create a new repository" button.
 
@@ -17,7 +16,6 @@ You will be using this template to create a _new_ repository in your github.com 
 
 ![Image description](/images/template.jpg)
 
-### 2. Name it `Assignment0` when you create your own github repository from this template
 
 If your github handle was `petecarapetyan` and you had a dark theme this is what your Assignment0 should look like now. Please notice that green `Code` button at bottom right.
 
@@ -28,7 +26,6 @@ If your github handle was `petecarapetyan` and you had a dark theme this is what
 
 ![Image description](/images/openWithGithubDesktop.jpg)
 
-### 3. Clone this down to your local box _**inside your coders campus workspace directory**_ being very careful to place it exactly there!
 
 
 - Using github desktop is super dangerous if you don't pay attention to the folder that it clones your local repository into!!!!!
@@ -41,7 +38,6 @@ Just in case you did screw up and put it in the wrong place here is how you hove
 
 ![Image description](/images/diagnose.jpg)
 
-### 4. Open your local Assignment0 repository in VSCode
 
 You can view text and the Preview version at the same time by clicking the button show with the yellow arrow at top right
 
@@ -50,7 +46,6 @@ You can view text and the Preview version at the same time by clicking the butto
 Resulting in a preview at right, like this:
 ![Image description](/images/likeso.jpg)
 
-### 5. Make changes
 
 - a. Change `# Assignment 0 Instructions` to `# John Smith` substituting your proper name for `John Smith`
 - b. Commit and push up to github using the lessons that Trevor gives you on Github Desktop. Refresh the github page, and examine to see if you like it (excepting instructions still showing).
@@ -59,7 +54,6 @@ Resulting in a preview at right, like this:
 - e. Push up to github again, refresh and examine.
 - f. [repeat until satisfied with result per below.]
 
-## Testing Your Assignment
 
 If your github handle was `petecarapetyan` and your name was `John Smith` and you had your browser set on dark theme then this is what your completed `Assignment0` page would look like.
 
@@ -67,7 +61,6 @@ At this time, we do not review Assignment0, it is for your personal education on
 
 ![Complete](/images/complete.jpg)
 
-## Extra Credit
 
 Learning how to path images (or any files, for that matter) is a frequent stumbling block for new coders. To illustrate this point, please examine this document and see how all of the images are pathed in this markup file, from the images directory. Such as `/images/complete.jpg` above.
 
@@ -79,7 +72,6 @@ Hopefully your smile will look every bit as dorky as mine.
 
 File path problems are very typical for most students in assignments 1 and 3. This is a good thing to learn early and get out of the way. If you don't understand how I got `/images/Pete.jpg` as the file path feel free to consult bard or chatgpt or any other AI.
 
-## Should I repeat Assignment0?
 
 This is something close to a 10 minute assignment once you get the hang of it. There is every reason for you to want to get this stuff into muscle memory early, because every assignment gets committed to github! 
 
